@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BetoCas11/intro-React/static/css/main.b5e33e46.css",
-    "main.js": "/BetoCas11/intro-React/static/js/main.15f478cb.js",
-    "index.html": "/BetoCas11/intro-React/index.html",
-    "main.b5e33e46.css.map": "/BetoCas11/intro-React/static/css/main.b5e33e46.css.map",
-    "main.15f478cb.js.map": "/BetoCas11/intro-React/static/js/main.15f478cb.js.map"
+    "main.css": "/betocas11/intro-React/static/css/main.b5e33e46.css",
+    "main.js": "/betocas11/intro-React/static/js/main.15f478cb.js",
+    "index.html": "/betocas11/intro-React/index.html",
+    "main.b5e33e46.css.map": "/betocas11/intro-React/static/css/main.b5e33e46.css.map",
+    "main.15f478cb.js.map": "/betocas11/intro-React/static/js/main.15f478cb.js.map"
   },
   "entrypoints": [
     "static/css/main.b5e33e46.css",
